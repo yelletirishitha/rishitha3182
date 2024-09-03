@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishitha</h1>
 <h3 align="center">A passionate developer and a software engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishithayelleti](https://github.com/rishithayelleti)
+- 👨‍💻 All of my projects are available at [https://github.com/yelletirishitha](https://github.com/yelletirishitha)
 
 - 📫 How to reach me **rishithayelleti@gmail.com**
 
